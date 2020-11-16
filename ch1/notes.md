@@ -1,4 +1,4 @@
-# Chapter 1 Notes
+# Chapter 1: Getting Started 
 
 compile and run a program 
 ```bash
