@@ -9,10 +9,22 @@ rustc file.rs
 ## cargo
 - Rust's build system and package manager
 - create a new project with Cargo
+
+### create a rust project
 ```bash
 cargo new hello_cargo
-``
-- This command generates a 
+```
+
+### build & run
+```bash
+cargo build
+cargo run
+```
+
+### check to see if your code compiles
+```bash
+cargo check
+```
 
 ## misc
 
